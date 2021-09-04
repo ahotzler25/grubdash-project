@@ -23,10 +23,6 @@ Instructions on how to get the frontend application up and running are included 
 
 Home Screen of GrubDash Frontend
 
-Again, it isn't necessary to connect the frontend to complete this project successfully.
-
-Remember to sync this Qualified project with your local machine so that you can commit it to GitHub in the next checkpoint. After navigating to the Qualified assignment, you will be asked to choose if you want to solve the challenge using the web-based IDE or your own IDE. Select the Start in your IDE option and follow the instructions to connect Qualified to your local IDE.
-
 Tasks
 In the src/dishes/dishes.controller.js file, add handlers and middleware functions to create, read, update, and list dishes. Note that dishes cannot be deleted.
 In the src/dishes/dishes.router.js file, add two routes: /dishes and /dishes/:dishId. Attach the handlers (create, read, update, and list) exported from src/dishes/dishes.controller.js.
